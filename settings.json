@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":"UnstableBG.aternos.me
+    "ip":"UnstableBG.aternos.me:51377
 ",
     "port":  51377,
     "version": "",
